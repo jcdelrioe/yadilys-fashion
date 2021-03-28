@@ -38,7 +38,10 @@ module.exports = {
       }
     ),
     new CopyWebpackPlugin({
-      patterns: [{ from: "./src/styles/style.css", to: "" }], // Desde que archivo, o carpeta hasta destino
+      patterns: [
+        { from: "./src/styles/style.css", to: "" },
+        { from: "src/assets/images/Dress-RB-Tiny", to: "./images" },
+      ], // Desde que archivo, o carpeta hasta destino
     }),
   ],
 };
