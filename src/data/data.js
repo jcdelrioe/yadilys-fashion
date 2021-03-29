@@ -5,15 +5,15 @@ const initialState = {
       name: "Guayaquileña",
       tallas: "S - M - L - XL",
       descripcion:
-        "Tela en bramante en combinacion celeste y blanco, adornados con encaje blanco",
+        "Confeccionada en tela bramante, en combinacion celeste y blanco, adornados con encaje blanco",
       image: "../../dist/images/vestido01-RB.png",
     },
     {
       id: 2,
-      name: "Criolla Bonita",
+      name: "Criolla bonita",
       tallas: "S - M - L - XL",
       descripcion:
-        "Tela en bramante en combinacion celeste y blanco, adornados con encaje blanco",
+        "Confeccionada en tela de seda estampada, adornados con encaje rojo",
       image: "../../dist/images/vestido02-RB.png",
     },
     {
@@ -21,7 +21,7 @@ const initialState = {
       name: "Día de la tierra",
       tallas: "S - M - L - XL",
       descripcion:
-        "Tela en bramante en combinación celeste y blanco, adornados con encaje blanco",
+        "Confeccionada en tela de seda estampada, adornados con encaje verde",
       image: "../../dist/images/vestido03-RB.png",
     },
     {
@@ -29,7 +29,7 @@ const initialState = {
       name: "Montubia bonita",
       tallas: "S - M - L - XL",
       descripcion:
-        "Tela en bramante en combinacion celeste y blanco, adornados con encaje blanco",
+        "Confeccionada en tela de seda estampada, adornados con encaje negro",
       image: "../../dist/images/vestido04-RB.png",
     },
     {
@@ -37,7 +37,7 @@ const initialState = {
       name: "Campecina bonita",
       tallas: "S - M - L - XL",
       descripcion:
-        "Tela en bramante en combinacion celeste y blanco, adornados con encaje blanco",
+        "Confeccionada en tela de hilo, combinado con una blusa blanca adornada con encaje rojo",
       image: "../../dist/images/vestido05-RB.png",
     },
     {
@@ -45,7 +45,7 @@ const initialState = {
       name: "Danza española",
       tallas: "S - M - L - XL",
       descripcion:
-        "Tela en bramante en combinacion celeste y blanco, adornados con encaje blanco",
+        "Confeccionada en tela de hilo, adornada con encaje rojo y blanco",
       image: "../../dist/images/vestido06-RB.png",
     },
     {
@@ -53,7 +53,7 @@ const initialState = {
       name: "Pollera Colorada",
       tallas: "S - M - L - XL",
       descripcion:
-        "Tela en bramante en combinacion celeste y blanco, adornados con encaje blanco",
+        "Confeccionada en tela zeus e hilo, adornada con encaje rojo y blanco",
       image: "../../dist/images/vestido07-RB.png",
     },
   ],
